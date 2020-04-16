@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="css/complete.css">
- @extends('frontend.master')
+@extends('frontend.master')
 @section('title','Hoàn thành')
+@section('css','css/complete.css')
 @section('main')
 
     <div id="wrap-inner">

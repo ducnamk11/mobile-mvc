@@ -1,5 +1,5 @@
 @extends('frontend.master')
-@section('title','Danh muc')
+@section('title','Giỏ hàng')
 @section('css','css/cart.css')
 @section('main')
     <script type="text/javascript">
